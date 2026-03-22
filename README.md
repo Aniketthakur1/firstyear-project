@@ -25,7 +25,7 @@ DegreeBee/
 └── README.md            # Project documentation
 ⚙️ Installation & Setup
 1. Clone the Repository
-git clone https://github.com/your-username/degreebee.git
+git clone https://github.com/Aniketthakur1/firstyear-Project.git
 cd degreebee
 2. Install Dependencies
 
